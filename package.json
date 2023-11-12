@@ -4,8 +4,7 @@
 	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"author": "Jane Doe",
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "^1.x.x"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
